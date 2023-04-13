@@ -8,6 +8,8 @@ The goal is to implements a dynamic chart that shows product performance indicat
 2. When user choose a category from `Select Category`, the chart should only show brands with the associated category .. 
 For example when the user choose `Smart Phones`, the chart should only shows brands with smart phones e.g Apple , Huawai.
 
+## API 
+1. You can use the following API `https://dummyjson.com/products`, or the data stored in `data` directory.
 
 ## Ideation
 1. A Loading screen is expected while fetching the data from the the api of from the included json file in `data` directory
