@@ -29,6 +29,7 @@ For example when the user choose `Smart Phones`, the chart should only shows bra
 3. Follow flux guidlines, separate logic from UI as much as possible.
 
 ## Bonus 
-1. Implemenet Unit Tests using jest and React testing library
-2. Implemenet E2E test using Cypress or Playwrite.
-3. Multilanguage Support with a language switch button.
+1. Typescript is a bonus.
+2. Implemenet Unit Tests using jest and React testing library
+3. Implemenet E2E test using Cypress or Playwrite.
+4. Multilanguage Support with a language switch button.
