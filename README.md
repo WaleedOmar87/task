@@ -24,7 +24,7 @@ For example when the user choose `Smart Phones`, the chart should only shows bra
 
 ## Requirements 
 1. Use React, Redux and Chartjs
-2. Don't use axios or fetch, rely on a API Access Layer such as RTK Query or Redux Saga.
+2. Try to not use axios or fetch, rely on a API Access Layer such as RTK Query or Redux Saga.
 2. Use functional components instead of class based components.
 3. Follow flux guidlines, separate logic from UI as much as possible.
 
