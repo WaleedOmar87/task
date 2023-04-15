@@ -2,9 +2,9 @@
 
 ![task](https://raw.githubusercontent.com/WaleedOmar87/task/main/chart.png)
 ## Description 
-The goal is to implements a dynamic chart that shows product performance indicators based on user selection
+The goal is to implement a dynamic chart that shows products performance indicators based on user selection.
 
-1. Users should be able to view product performance based on `Price` or `Avaialble Stocks`
+1. Users should be able to view products performance based on `Price` or `Avaialble Stocks`
 2. When a user chooses a category from `Select Category`, the chart should only show brands with the associated category .. 
 For example when the user chooses `Smart Phones`, the chart should only show brands with smart phones e.g Apple , Huawai.
 
