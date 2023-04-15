@@ -31,5 +31,5 @@ For example when the user chooses `Smart Phones`, the chart should only show bra
 ## Bonus 
 1. Typescript is a bonus.
 2. Implemenet Unit Tests using jest and React testing library
-3. Implemenet E2E test using Cypress or Playwrite.
+3. Implemenet E2E test using Cypress or Playwright.
 4. Multilanguage Support with a language switch button.
